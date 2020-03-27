@@ -4,6 +4,12 @@ body{margin:0}
 
 body {font-family: Georgia, 'Times New Roman', Times, serif;}
 /*Palatino Linotype", "Book Antiqua", Palatino, serif*/
+@font-face
+{
+font-family: Electronic Highwat Sign;
+src: url('Electronic Highwat Sign.ttf'),
+url('Electronic Highwat Sign.eot');
+}
 
 .w3-row-padding img {margin-bottom: 12px}
 /* Set the width of the sidebar to 120px */
